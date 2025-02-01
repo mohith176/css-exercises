@@ -1,0 +1,21 @@
+.para
+{
+    background-color: rgb(255, 192, 192);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+.spl
+{
+     font-size: 24px;
+}
+#fi
+{
+  color:rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#si
+{
+  background-color: rgb(129, 238, 129);
+  font-weight: bold;
+}
